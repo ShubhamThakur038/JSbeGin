@@ -8,7 +8,7 @@ In this program the contract MyToken is a simple implementation of token on the 
 ## Let's Get Started
 You can run this program on Online Solidity IDE :  Remix . 
 Just click on the website : https://remix.ethereum.org/ . 
-There, first create a new file by clicking on "+" sign on the left sidebar and name the file , save it with a '.sol' extension . 
+There, first create a new file by clicking on "+" sign on the left side of the screen   on the  sidebar and name the file , save it with a '.sol' extension . 
 Then paste the code  .
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.26" (or another compatible version), and then click on the "Compile MyToken.sol" button.
